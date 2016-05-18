@@ -1,3 +1,15 @@
 0:0:0:0:0:0:0:1 - - [17/May/2016:23:09:26 -0300] "GET /project2016 HTTP/1.1" 302 - http-bio-9090-exec-1 0
 0:0:0:0:0:0:0:1 - - [17/May/2016:23:09:27 -0300] "GET /project2016/ HTTP/1.1" 200 52 http-bio-9090-exec-3 622
 0:0:0:0:0:0:0:1 - - [17/May/2016:23:09:27 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-4 0
+0:0:0:0:0:0:0:1 - - [17/May/2016:23:43:37 -0300] "GET /project2016 HTTP/1.1" 302 - http-bio-9090-exec-1 0
+0:0:0:0:0:0:0:1 - - [17/May/2016:23:43:38 -0300] "GET /project2016/ HTTP/1.1" 200 52 http-bio-9090-exec-2 1136
+0:0:0:0:0:0:0:1 - - [17/May/2016:23:43:38 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-3 0
+0:0:0:0:0:0:0:1 - - [17/May/2016:23:43:38 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-4 0
+0:0:0:0:0:0:0:1 - - [17/May/2016:23:45:28 -0300] "GET /project2016 HTTP/1.1" 302 - http-bio-9090-exec-7 0
+0:0:0:0:0:0:0:1 - - [17/May/2016:23:45:28 -0300] "GET /project2016/ HTTP/1.1" 200 1181 http-bio-9090-exec-8 76
+0:0:0:0:0:0:0:1 - - [17/May/2016:23:45:28 -0300] "GET /project2016/css/bootstrap.min.css HTTP/1.1" 404 1017 http-bio-9090-exec-9 4
+0:0:0:0:0:0:0:1 - - [17/May/2016:23:45:28 -0300] "GET /project2016/js/bootstrap.min.js HTTP/1.1" 404 1013 http-bio-9090-exec-10 1
+0:0:0:0:0:0:0:1 - - [17/May/2016:23:52:02 -0300] "GET /project2016/ HTTP/1.1" 200 851 http-bio-9090-exec-3 76
+0:0:0:0:0:0:0:1 - - [17/May/2016:23:52:02 -0300] "GET /project2016/css/bootstrap.min.css HTTP/1.1" 404 1017 http-bio-9090-exec-3 1
+0:0:0:0:0:0:0:1 - - [17/May/2016:23:52:02 -0300] "GET /project2016/js/bootstrap.min.js HTTP/1.1" 404 1013 http-bio-9090-exec-3 1
+0:0:0:0:0:0:0:1 - - [17/May/2016:23:52:02 -0300] "GET /project2016/js/bootstrap.min.js HTTP/1.1" 404 1013 http-bio-9090-exec-3 0
